@@ -2,10 +2,10 @@
 
 {% tabs %}
 {% tab title="功能图" %}
-<figure><img src="../../.gitbook/assets/ox功能图 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0x GTA5 功能演示与详解2022.12.12.png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
+{% tab title="下载文件版" %}
+{% embed url="https://wwwg.lanzouy.com/iDyAG0jbe6sj" %}
 {% endtab %}
 {% endtabs %}
